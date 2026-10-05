@@ -1,0 +1,501 @@
+customer_id,age,gender,product_category,purchase_amount,customer_rating
+C1000,40,Male,Sports & Outdoors,105.35,3.5
+C1001,24,Male,Groceries,57.86,4.0
+C1002,45,Female,Beauty,39.95,4.0
+C1003,47,Male,Books,24.22,3.5
+C1004,18,Male,Clothing,35.72,4.0
+C1005,20,Female,Groceries,76.95,4.0
+C1006,38,Non-binary,Clothing,18.81,3.5
+C1007,32,Female,Sports & Outdoors,94.78,3.5
+C1008,36,Male,Home & Kitchen,98.94,3.0
+C1009,26,Female,Beauty,25.76,4.5
+C1010,47,Female,Sports & Outdoors,78.98,4.5
+C1011,45,Male,Home & Kitchen,58.87,4.0
+C1012,37,Female,Groceries,28.21,5.0
+C1013,50,Male,Home & Kitchen,72.32,4.0
+C1014,42,Male,Books,9.17,4.5
+C1015,26,Female,Clothing,69.68,4.0
+C1016,40,Male,Home & Kitchen,32.5,4.0
+C1017,24,Male,Home & Kitchen,125.6,3.5
+C1018,47,Female,Electronics,72.78,5.0
+C1019,35,Non-binary,Electronics,165.06,3.5
+C1020,34,Female,Books,13.0,3.5
+C1021,28,Female,Books,28.6,4.5
+C1022,51,Non-binary,Books,20.64,4.0
+C1023,34,Male,Electronics,218.24,3.0
+C1024,31,Male,Clothing,74.96,5.0
+C1025,32,Male,Clothing,5.0,4.0
+C1026,42,Male,Sports & Outdoors,78.06,3.0
+C1027,40,Female,Toys & Games,79.95,5.0
+C1028,41,Male,Clothing,63.97,4.5
+C1029,41,Male,Books,18.54,3.0
+C1030,62,Male,Electronics,332.22,5.0
+C1031,31,Male,Clothing,86.87,4.5
+C1032,30,Female,Electronics,5.0,4.0
+C1033,26,Male,Clothing,9.53,5.0
+C1034,43,Male,Books,19.68,4.0
+C1035,50,Male,Groceries,37.13,4.0
+C1036,35,Female,Clothing,99.36,3.5
+C1037,26,Female,Beauty,30.27,4.5
+C1038,26,Female,Sports & Outdoors,5.0,4.5
+C1039,44,Male,Groceries,23.3,4.0
+C1040,45,Male,Beauty,5.0,3.5
+C1041,43,Female,Clothing,52.98,4.0
+C1042,28,Female,Books,16.49,4.0
+C1043,39,Female,Clothing,47.27,3.0
+C1044,37,Female,Groceries,81.97,3.0
+C1045,39,Female,Home & Kitchen,149.93,4.5
+C1046,46,Male,Books,16.64,2.0
+C1047,39,Male,Electronics,5.0,4.0
+C1048,44,Female,Home & Kitchen,120.86,3.5
+C1049,37,Male,Groceries,68.88,5.0
+C1050,39,Female,Beauty,39.64,3.5
+C1051,44,Female,Home & Kitchen,139.07,4.5
+C1052,19,Female,Groceries,25.88,3.5
+C1053,32,Female,Toys & Games,80.18,4.0
+C1054,30,Female,Clothing,31.22,4.5
+C1055,28,Female,Beauty,46.24,3.5
+C1056,33,Female,Home & Kitchen,5.63,5.0
+C1057,54,Female,Books,10.56,3.0
+C1058,26,Male,Clothing,105.49,4.0
+C1059,48,Female,Clothing,52.17,4.5
+C1060,18,Female,Groceries,76.0,4.5
+C1061,32,Male,Groceries,60.92,5.0
+C1062,38,Male,Toys & Games,37.9,3.5
+C1063,43,Female,Groceries,89.1,3.0
+C1064,45,Female,Sports & Outdoors,69.35,3.0
+C1065,46,Male,Sports & Outdoors,5.0,4.5
+C1066,32,Male,Sports & Outdoors,43.85,4.5
+C1067,30,Male,Home & Kitchen,117.56,4.0
+C1068,46,Male,Home & Kitchen,109.78,3.0
+C1069,34,Female,Clothing,12.99,4.5
+C1070,21,Male,Books,12.21,3.0
+C1071,22,Male,Clothing,42.55,5.0
+C1072,25,Female,Clothing,49.04,5.0
+C1073,42,Male,Beauty,14.36,4.5
+C1074,38,Male,Home & Kitchen,58.58,4.5
+C1075,44,Female,Clothing,38.14,3.5
+C1076,31,Female,Toys & Games,55.43,2.5
+C1077,38,Non-binary,Toys & Games,56.18,3.5
+C1078,44,Female,Electronics,228.13,3.0
+C1079,32,Male,Electronics,191.19,3.0
+C1080,41,Female,Clothing,64.2,5.0
+C1081,28,Female,Sports & Outdoors,43.25,4.0
+C1082,32,Female,Toys & Games,17.06,4.5
+C1083,31,Female,Electronics,108.97,4.0
+C1084,22,Female,Sports & Outdoors,51.43,4.0
+C1085,42,Female,Electronics,75.48,5.0
+C1086,30,Male,Home & Kitchen,98.1,4.0
+C1087,36,Female,Groceries,73.24,4.5
+C1088,42,Male,Clothing,12.39,4.0
+C1089,41,Female,Electronics,253.77,3.5
+C1090,44,Female,Home & Kitchen,79.0,3.0
+C1091,35,Female,Beauty,40.12,2.5
+C1092,31,Non-binary,Groceries,54.68,4.0
+C1093,35,Male,Groceries,18.66,4.0
+C1094,18,Female,Electronics,60.64,3.0
+C1095,19,Female,Electronics,254.41,4.0
+C1096,20,Male,Sports & Outdoors,126.3,4.0
+C1097,24,Male,Clothing,5.0,2.5
+C1098,41,Male,Groceries,63.64,3.5
+C1099,25,Female,Books,27.52,4.5
+C1100,31,Female,Electronics,227.05,4.5
+C1101,52,Non-binary,Toys & Games,51.0,3.0
+C1102,32,Male,Clothing,38.91,4.0
+C1103,45,Non-binary,Home & Kitchen,84.03,5.0
+C1104,25,Male,Beauty,10.69,4.5
+C1105,34,Female,Home & Kitchen,5.0,4.0
+C1106,25,Male,Books,25.54,3.5
+C1107,32,Female,Books,10.12,3.5
+C1108,46,Female,Groceries,43.61,4.5
+C1109,18,Female,Groceries,20.34,4.0
+C1110,41,Female,Beauty,13.85,4.5
+C1111,39,Male,Electronics,223.92,4.0
+C1112,29,Male,Sports & Outdoors,47.17,4.5
+C1113,19,Male,Groceries,64.45,4.0
+C1114,37,Male,Clothing,73.58,4.5
+C1115,30,Female,Home & Kitchen,106.04,4.5
+C1116,39,Female,Home & Kitchen,101.93,3.5
+C1117,36,Female,Electronics,486.67,2.5
+C1118,55,Female,Books,9.46,5.0
+C1119,33,Female,Clothing,58.35,4.0
+C1120,24,Female,Sports & Outdoors,130.97,2.5
+C1121,38,Male,Toys & Games,65.29,3.5
+C1122,39,Male,Toys & Games,11.56,4.5
+C1123,52,Female,Home & Kitchen,74.38,4.0
+C1124,46,Female,Clothing,100.74,3.5
+C1125,40,Male,Sports & Outdoors,102.86,5.0
+C1126,54,Female,Toys & Games,43.91,3.0
+C1127,22,Female,Home & Kitchen,79.12,3.5
+C1128,28,Male,Groceries,45.4,4.0
+C1129,25,Male,Electronics,293.23,4.5
+C1130,31,Female,Groceries,48.69,4.5
+C1131,19,Female,Electronics,243.61,4.5
+C1132,44,Male,Electronics,261.79,4.0
+C1133,33,Female,Beauty,24.83,4.5
+C1134,18,Male,Electronics,329.82,4.0
+C1135,24,Female,Electronics,687.14,4.0
+C1136,40,Male,Electronics,5.0,4.0
+C1137,46,Female,Home & Kitchen,106.2,4.0
+C1138,60,Male,Sports & Outdoors,45.79,4.5
+C1139,70,Male,Electronics,336.61,4.5
+C1140,41,Female,Books,18.37,4.0
+C1141,24,Male,Toys & Games,55.24,3.5
+C1142,18,Male,Electronics,426.33,4.0
+C1143,39,Male,Electronics,278.86,4.0
+C1144,26,Female,Toys & Games,62.64,4.0
+C1145,31,Female,Toys & Games,5.0,5.0
+C1146,29,Non-binary,Beauty,58.86,3.5
+C1147,34,Male,Toys & Games,47.5,4.5
+C1148,49,Male,Electronics,411.68,5.0
+C1149,38,Male,Home & Kitchen,29.01,4.0
+C1150,34,Female,Sports & Outdoors,42.62,5.0
+C1151,24,Non-binary,Clothing,64.38,3.5
+C1152,18,Female,Sports & Outdoors,79.23,4.5
+C1153,30,Female,Home & Kitchen,104.15,3.5
+C1154,35,Male,Sports & Outdoors,128.8,3.5
+C1155,57,Female,Home & Kitchen,5.0,4.0
+C1156,38,Female,Clothing,89.21,4.5
+C1157,48,Male,Clothing,60.25,4.5
+C1158,30,Male,Clothing,53.89,5.0
+C1159,22,Male,Sports & Outdoors,13.8,4.0
+C1160,24,Male,Electronics,325.46,3.5
+C1161,27,Male,Electronics,5.0,5.0
+C1162,62,Male,Clothing,79.45,4.5
+C1163,26,Female,Clothing,15.24,3.5
+C1164,46,Male,Toys & Games,41.07,3.5
+C1165,25,Male,Home & Kitchen,84.04,3.0
+C1166,47,Female,Groceries,84.24,4.5
+C1167,41,Female,Electronics,223.2,3.5
+C1168,34,Female,Books,12.45,4.0
+C1169,36,Male,Home & Kitchen,64.67,4.0
+C1170,28,Female,Home & Kitchen,153.64,4.5
+C1171,41,Male,Groceries,68.41,3.5
+C1172,31,Male,Groceries,45.36,3.0
+C1173,21,Female,Groceries,49.09,4.0
+C1174,21,Female,Clothing,12.98,4.5
+C1175,38,Female,Clothing,71.65,4.5
+C1176,55,Female,Books,5.0,3.5
+C1177,38,Female,Clothing,82.55,4.5
+C1178,35,Male,Sports & Outdoors,85.79,3.5
+C1179,39,Male,Beauty,70.8,3.5
+C1180,52,Male,Beauty,18.5,3.0
+C1181,39,Male,Toys & Games,37.95,5.0
+C1182,31,Female,Sports & Outdoors,160.92,4.5
+C1183,49,Male,Electronics,428.71,4.5
+C1184,41,Female,Electronics,145.57,5.0
+C1185,54,Female,Beauty,38.36,5.0
+C1186,38,Female,Home & Kitchen,90.1,2.5
+C1187,21,Male,Clothing,68.46,3.5
+C1188,20,Male,Home & Kitchen,55.07,3.5
+C1189,56,Non-binary,Sports & Outdoors,75.98,3.5
+C1190,57,Female,Toys & Games,8.04,3.0
+C1191,34,Female,Beauty,37.03,4.0
+C1192,31,Female,Home & Kitchen,112.5,3.0
+C1193,54,Female,Clothing,53.18,4.5
+C1194,23,Male,Beauty,10.77,4.0
+C1195,25,Female,Clothing,89.66,4.5
+C1196,44,Male,Beauty,40.47,4.5
+C1197,31,Female,Books,12.19,4.5
+C1198,36,Female,Electronics,207.91,3.5
+C1199,34,Female,Electronics,24.9,5.0
+C1200,40,Male,Clothing,29.24,4.0
+C1201,53,Male,Groceries,41.55,2.5
+C1202,37,Female,Books,27.83,3.0
+C1203,44,Male,Clothing,40.81,2.5
+C1204,18,Male,Groceries,71.01,4.0
+C1205,35,Male,Home & Kitchen,63.08,4.0
+C1206,26,Male,Home & Kitchen,102.4,3.5
+C1207,21,Male,Groceries,51.47,5.0
+C1208,25,Female,Electronics,380.96,4.5
+C1209,32,Male,Clothing,43.96,4.5
+C1210,47,Male,Beauty,11.41,3.5
+C1211,20,Male,Clothing,18.54,3.0
+C1212,36,Male,Books,13.74,4.0
+C1213,30,Male,Clothing,22.53,4.0
+C1214,32,Female,Electronics,311.53,2.5
+C1215,48,Male,Clothing,46.03,4.0
+C1216,42,Male,Home & Kitchen,208.73,4.0
+C1217,52,Male,Clothing,7.87,4.0
+C1218,34,Male,Electronics,280.54,3.5
+C1219,28,Male,Toys & Games,17.44,3.5
+C1220,33,Male,Clothing,45.2,4.0
+C1221,39,Female,Clothing,64.24,4.0
+C1222,38,Male,Electronics,5.0,4.5
+C1223,23,Female,Clothing,67.1,5.0
+C1224,37,Female,Clothing,117.09,4.0
+C1225,39,Male,Beauty,28.2,3.5
+C1226,66,Male,Clothing,67.79,4.5
+C1227,59,Female,Groceries,80.62,4.5
+C1228,26,Female,Groceries,50.9,3.5
+C1229,33,Male,Electronics,162.86,4.5
+C1230,18,Male,Electronics,5.0,5.0
+C1231,29,Male,Electronics,346.15,5.0
+C1232,40,Male,Beauty,33.3,5.0
+C1233,50,Female,Electronics,98.1,3.5
+C1234,27,Male,Toys & Games,42.53,4.0
+C1235,28,Male,Sports & Outdoors,53.73,4.0
+C1236,18,Female,Toys & Games,29.43,4.0
+C1237,34,Male,Beauty,44.09,3.5
+C1238,23,Male,Groceries,21.54,3.0
+C1239,30,Female,Electronics,407.1,4.0
+C1240,25,Male,Home & Kitchen,20.12,3.5
+C1241,35,Male,Clothing,40.12,4.0
+C1242,18,Male,Groceries,103.07,3.5
+C1243,18,Female,Beauty,51.91,3.0
+C1244,62,Male,Toys & Games,41.95,4.0
+C1245,21,Male,Clothing,31.78,4.0
+C1246,23,Male,Groceries,41.77,4.5
+C1247,58,Male,Home & Kitchen,93.66,5.0
+C1248,70,Female,Home & Kitchen,91.88,4.0
+C1249,22,Male,Groceries,52.73,4.5
+C1250,32,Female,Home & Kitchen,88.46,3.0
+C1251,40,Female,Home & Kitchen,79.28,3.0
+C1252,57,Female,Beauty,13.37,5.0
+C1253,24,Male,Electronics,172.52,3.5
+C1254,33,Female,Clothing,87.44,3.0
+C1255,45,Female,Clothing,18.95,4.0
+C1256,41,Male,Electronics,221.57,4.0
+C1257,31,Female,Toys & Games,23.6,3.5
+C1258,34,Female,Beauty,36.67,4.0
+C1259,20,Male,Clothing,48.34,5.0
+C1260,33,Female,Home & Kitchen,163.87,3.5
+C1261,33,Male,Home & Kitchen,115.33,3.0
+C1262,39,Female,Books,7.51,5.0
+C1263,29,Non-binary,Groceries,71.78,4.5
+C1264,42,Male,Groceries,35.63,3.5
+C1265,48,Female,Home & Kitchen,61.15,2.5
+C1266,38,Male,Clothing,69.41,3.5
+C1267,40,Female,Home & Kitchen,65.41,4.0
+C1268,37,Female,Beauty,48.39,5.0
+C1269,36,Male,Home & Kitchen,51.27,3.0
+C1270,27,Male,Books,13.05,4.0
+C1271,40,Male,Beauty,25.15,4.5
+C1272,35,Male,Clothing,43.03,2.0
+C1273,61,Male,Clothing,92.98,5.0
+C1274,55,Male,Home & Kitchen,121.44,3.0
+C1275,41,Male,Electronics,506.49,4.5
+C1276,27,Male,Electronics,590.15,4.0
+C1277,23,Female,Sports & Outdoors,33.62,5.0
+C1278,50,Female,Home & Kitchen,93.52,4.5
+C1279,39,Female,Clothing,24.71,2.0
+C1280,42,Male,Beauty,23.34,3.5
+C1281,18,Female,Sports & Outdoors,51.65,4.0
+C1282,47,Female,Clothing,28.29,4.0
+C1283,41,Male,Toys & Games,18.96,4.5
+C1284,23,Male,Groceries,51.39,4.5
+C1285,30,Female,Beauty,16.75,4.5
+C1286,39,Male,Books,24.74,4.0
+C1287,37,Female,Electronics,112.34,2.5
+C1288,32,Non-binary,Groceries,125.24,3.5
+C1289,35,Male,Home & Kitchen,67.43,4.5
+C1290,33,Male,Groceries,56.8,3.0
+C1291,38,Non-binary,Beauty,15.57,4.5
+C1292,54,Female,Electronics,505.91,4.5
+C1293,18,Male,Electronics,417.93,4.0
+C1294,33,Female,Books,20.38,1.5
+C1295,38,Female,Beauty,14.8,3.0
+C1296,40,Female,Electronics,281.6,5.0
+C1297,32,Female,Sports & Outdoors,29.54,3.5
+C1298,18,Male,Toys & Games,69.25,2.5
+C1299,40,Male,Home & Kitchen,130.46,5.0
+C1300,57,Female,Home & Kitchen,94.77,4.0
+C1301,18,Male,Electronics,5.0,5.0
+C1302,46,Female,Sports & Outdoors,35.75,4.0
+C1303,32,Female,Clothing,80.63,4.5
+C1304,35,Male,Groceries,85.32,4.5
+C1305,23,Female,Home & Kitchen,145.46,4.5
+C1306,32,Male,Beauty,11.12,5.0
+C1307,52,Female,Clothing,69.05,5.0
+C1308,43,Male,Electronics,402.33,2.5
+C1309,57,Female,Sports & Outdoors,5.37,4.5
+C1310,50,Female,Home & Kitchen,89.6,5.0
+C1311,41,Male,Beauty,39.11,5.0
+C1312,57,Female,Groceries,47.48,3.5
+C1313,41,Female,Groceries,8.7,5.0
+C1314,46,Female,Toys & Games,33.49,4.5
+C1315,32,Female,Clothing,50.18,5.0
+C1316,37,Non-binary,Beauty,32.78,3.5
+C1317,28,Male,Groceries,40.91,3.5
+C1318,48,Female,Home & Kitchen,67.85,4.0
+C1319,22,Male,Electronics,244.04,3.5
+C1320,45,Female,Toys & Games,48.85,3.5
+C1321,34,Female,Home & Kitchen,74.78,2.0
+C1322,50,Male,Beauty,28.86,3.5
+C1323,45,Male,Groceries,57.31,4.5
+C1324,58,Female,Beauty,6.19,3.5
+C1325,45,Male,Home & Kitchen,113.85,5.0
+C1326,18,Female,Clothing,59.98,4.0
+C1327,35,Male,Home & Kitchen,91.98,5.0
+C1328,22,Female,Electronics,394.11,4.0
+C1329,30,Male,Sports & Outdoors,5.0,4.5
+C1330,54,Male,Toys & Games,5.0,4.0
+C1331,44,Female,Clothing,68.21,5.0
+C1332,28,Female,Clothing,59.79,4.0
+C1333,24,Male,Groceries,59.25,4.5
+C1334,36,Male,Electronics,180.68,4.5
+C1335,21,Female,Beauty,44.97,4.0
+C1336,28,Female,Home & Kitchen,136.63,4.5
+C1337,40,Male,Books,21.87,5.0
+C1338,50,Female,Electronics,210.88,4.0
+C1339,43,Female,Books,5.0,4.5
+C1340,18,Female,Home & Kitchen,128.46,5.0
+C1341,40,Female,Beauty,53.33,5.0
+C1342,37,Female,Electronics,346.68,4.0
+C1343,41,Male,Home & Kitchen,46.02,2.0
+C1344,55,Female,Beauty,45.11,4.5
+C1345,18,Female,Clothing,85.82,2.0
+C1346,29,Female,Electronics,483.82,5.0
+C1347,43,Male,Clothing,33.72,4.0
+C1348,18,Male,Clothing,53.21,5.0
+C1349,54,Female,Electronics,362.09,3.5
+C1350,40,Male,Groceries,56.44,3.0
+C1351,46,Non-binary,Home & Kitchen,34.13,4.0
+C1352,29,Male,Toys & Games,48.29,4.0
+C1353,46,Female,Groceries,69.47,3.5
+C1354,49,Female,Electronics,263.19,4.0
+C1355,39,Male,Books,19.76,5.0
+C1356,39,Male,Groceries,48.53,4.5
+C1357,39,Female,Books,29.83,5.0
+C1358,26,Female,Home & Kitchen,44.97,4.5
+C1359,34,Male,Home & Kitchen,60.63,5.0
+C1360,34,Female,Electronics,251.65,4.0
+C1361,41,Female,Beauty,48.18,2.5
+C1362,48,Male,Groceries,17.57,4.0
+C1363,23,Male,Groceries,22.24,4.5
+C1364,34,Male,Electronics,5.0,3.0
+C1365,54,Male,Sports & Outdoors,81.47,4.0
+C1366,27,Male,Clothing,26.45,3.5
+C1367,26,Male,Groceries,45.39,5.0
+C1368,38,Female,Electronics,349.21,4.5
+C1369,46,Male,Groceries,38.96,4.5
+C1370,36,Female,Toys & Games,44.63,4.5
+C1371,52,Male,Electronics,205.1,4.0
+C1372,46,Male,Electronics,350.82,4.0
+C1373,46,Female,Toys & Games,49.5,3.0
+C1374,43,Female,Electronics,146.21,2.5
+C1375,64,Male,Beauty,32.47,4.0
+C1376,34,Male,Groceries,81.09,4.5
+C1377,18,Male,Beauty,40.9,5.0
+C1378,55,Female,Home & Kitchen,20.15,5.0
+C1379,31,Male,Home & Kitchen,122.78,5.0
+C1380,37,Male,Electronics,87.31,3.0
+C1381,52,Male,Groceries,90.31,3.5
+C1382,18,Female,Clothing,90.72,4.5
+C1383,21,Female,Clothing,68.7,5.0
+C1384,18,Female,Clothing,64.72,5.0
+C1385,26,Female,Groceries,49.77,5.0
+C1386,41,Male,Electronics,351.78,3.5
+C1387,42,Male,Toys & Games,32.58,3.5
+C1388,39,Male,Sports & Outdoors,90.6,4.5
+C1389,19,Female,Toys & Games,57.44,3.0
+C1390,18,Female,Groceries,40.95,4.0
+C1391,37,Female,Toys & Games,27.68,4.0
+C1392,30,Non-binary,Groceries,25.14,5.0
+C1393,42,Non-binary,Electronics,90.33,3.5
+C1394,44,Female,Sports & Outdoors,5.0,2.0
+C1395,38,Male,Beauty,45.95,4.5
+C1396,45,Male,Beauty,62.13,3.5
+C1397,39,Male,Groceries,90.63,4.0
+C1398,42,Female,Groceries,14.35,4.0
+C1399,28,Male,Sports & Outdoors,112.62,4.0
+C1400,34,Female,Home & Kitchen,161.11,4.5
+C1401,38,Female,Home & Kitchen,67.16,3.0
+C1402,46,Female,Home & Kitchen,95.07,3.5
+C1403,31,Male,Clothing,5.0,4.5
+C1404,42,Male,Home & Kitchen,103.34,3.5
+C1405,33,Male,Electronics,90.47,2.5
+C1406,35,Female,Electronics,279.95,4.5
+C1407,46,Female,Sports & Outdoors,9.75,5.0
+C1408,18,Female,Home & Kitchen,117.14,4.0
+C1409,20,Male,Groceries,80.61,2.5
+C1410,18,Male,Beauty,23.25,4.5
+C1411,18,Male,Electronics,79.46,2.5
+C1412,28,Female,Electronics,5.0,4.0
+C1413,45,Female,Clothing,52.01,3.5
+C1414,33,Male,Groceries,40.46,3.0
+C1415,38,Female,Clothing,13.47,3.5
+C1416,49,Male,Beauty,41.8,4.0
+C1417,52,Female,Groceries,43.75,3.5
+C1418,35,Male,Groceries,28.11,4.5
+C1419,52,Male,Clothing,43.36,3.5
+C1420,37,Female,Electronics,410.7,5.0
+C1421,26,Male,Electronics,340.44,4.0
+C1422,29,Male,Electronics,230.5,3.5
+C1423,18,Male,Clothing,78.57,3.5
+C1424,25,Male,Beauty,17.59,2.5
+C1425,32,Female,Groceries,55.81,4.0
+C1426,46,Female,Beauty,37.21,3.5
+C1427,57,Female,Books,14.24,2.0
+C1428,19,Male,Clothing,73.06,3.5
+C1429,41,Female,Toys & Games,24.39,3.5
+C1430,24,Male,Beauty,42.65,5.0
+C1431,42,Male,Toys & Games,51.04,2.5
+C1432,34,Male,Groceries,5.0,3.0
+C1433,18,Female,Clothing,95.71,5.0
+C1434,47,Female,Electronics,5.0,5.0
+C1435,29,Female,Clothing,41.52,3.5
+C1436,30,Female,Home & Kitchen,141.27,3.5
+C1437,23,Female,Groceries,47.07,4.5
+C1438,28,Female,Home & Kitchen,16.69,2.0
+C1439,41,Female,Sports & Outdoors,30.78,2.5
+C1440,34,Male,Beauty,50.4,4.0
+C1441,40,Male,Clothing,5.0,5.0
+C1442,40,Male,Clothing,93.87,3.5
+C1443,52,Female,Books,17.56,4.0
+C1444,32,Female,Books,8.46,5.0
+C1445,18,Female,Home & Kitchen,60.84,5.0
+C1446,49,Male,Clothing,29.48,3.5
+C1447,32,Female,Sports & Outdoors,118.98,4.0
+C1448,49,Male,Electronics,359.86,5.0
+C1449,41,Male,Groceries,12.02,3.0
+C1450,34,Male,Clothing,47.89,5.0
+C1451,40,Male,Electronics,120.52,3.0
+C1452,59,Female,Home & Kitchen,154.68,4.0
+C1453,61,Male,Beauty,14.75,4.0
+C1454,37,Female,Home & Kitchen,170.21,3.0
+C1455,38,Male,Home & Kitchen,88.34,3.0
+C1456,49,Male,Groceries,25.95,4.0
+C1457,26,Female,Home & Kitchen,56.14,5.0
+C1458,40,Male,Home & Kitchen,49.92,4.0
+C1459,36,Non-binary,Home & Kitchen,26.27,4.0
+C1460,40,Female,Electronics,264.22,4.5
+C1461,26,Female,Beauty,16.58,3.0
+C1462,18,Male,Clothing,5.0,4.5
+C1463,18,Male,Books,14.96,4.5
+C1464,23,Female,Electronics,5.0,5.0
+C1465,30,Male,Groceries,36.2,3.5
+C1466,32,Male,Home & Kitchen,44.54,3.5
+C1467,59,Male,Groceries,33.22,4.5
+C1468,49,Female,Home & Kitchen,190.05,4.5
+C1469,24,Female,Electronics,258.46,3.5
+C1470,40,Female,Toys & Games,44.91,3.5
+C1471,31,Female,Books,5.0,4.5
+C1472,33,Male,Sports & Outdoors,50.57,3.5
+C1473,38,Female,Home & Kitchen,100.77,3.5
+C1474,43,Male,Books,9.8,4.0
+C1475,32,Female,Toys & Games,58.16,5.0
+C1476,49,Male,Books,8.38,3.5
+C1477,22,Non-binary,Clothing,51.41,2.5
+C1478,36,Male,Books,13.31,2.5
+C1479,67,Male,Books,19.31,3.0
+C1480,39,Male,Groceries,38.99,3.0
+C1481,53,Male,Home & Kitchen,76.46,4.0
+C1482,37,Male,Home & Kitchen,78.19,3.0
+C1483,43,Female,Toys & Games,25.31,3.5
+C1484,35,Male,Home & Kitchen,114.25,3.5
+C1485,34,Female,Sports & Outdoors,90.73,3.5
+C1486,27,Male,Home & Kitchen,85.57,5.0
+C1487,41,Female,Clothing,47.09,4.5
+C1488,26,Male,Sports & Outdoors,115.84,4.0
+C1489,44,Female,Electronics,214.62,3.5
+C1490,49,Female,Clothing,50.8,3.5
+C1491,40,Male,Books,18.84,4.5
+C1492,33,Female,Sports & Outdoors,156.35,4.5
+C1493,41,Male,Groceries,21.49,3.5
+C1494,32,Male,Clothing,83.1,4.0
+C1495,47,Female,Electronics,5.0,2.5
+C1496,18,Female,Groceries,60.43,4.0
+C1497,32,Male,Electronics,486.26,4.5
+C1498,18,Male,Clothing,74.66,4.0
+C1499,18,Female,Clothing,65.12,5.0
