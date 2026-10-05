@@ -148,12 +148,4 @@ The E-commerce Customer Analysis project demonstrates how Python can be used for
 
 This project provides practical experience in both **data analysis** and **version control**, which are important skills for data science and software development.
 
-## Author
 
-**Swathi Sree**
-
-B.Tech – Computer Science and Engineering (AI & ML)
-
-## License
-
-This project is created for educational and academic purposes.
